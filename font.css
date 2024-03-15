@@ -1,0 +1,20 @@
+@font-face {
+    font-family:Pokemon;
+    src: url(fonts/Pokemon.ttf);
+}
+@font-face {
+    font-family:Ketchum;
+    src: url(fonts/Ketchum.otf);
+}
+@font-face{
+    font-family: vogue;
+    src: url(fonts/Vogue.ttf);
+}
+@font-face{
+    font-family: classyvogue;
+    src: url(fonts/Classyvogueregular.ttf);
+}
+@font-face{
+    font-family: magical;
+    src: url(fonts/Magical\ Childhood.ttf);
+}
