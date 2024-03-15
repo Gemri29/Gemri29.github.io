@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1,
+        "name": "Charmander Plushie",
+        "price": 200,
+        "image": "merch/Charmander.png"
+    },
+    {
+        "id": 2,
+        "name": "Bulbasaur Plushie",
+        "price": 200,
+        "image": "merch/Bulbasaur.png"
+    },
+    {
+        "id": 3,
+        "name": "Dratini Plushie",
+        "price": 200,
+        "image": "merch/Dratini.png"
+    },
+    {
+        "id": 4,
+        "name": "Lucario Plushie",
+        "price": 200,
+        "image": "merch/Lucario.png"
+    },
+    {
+        "id": 5,
+        "name": "Eevee Plushie",
+        "price": 200,
+        "image": "merch/Eevee.png"
+    },
+    {
+        "id": 6,
+        "name": "Espeon Plushie",
+        "price": 200,
+        "image": "merch/Espeon.png"
+    },
+    {
+        "id": 7,
+        "name": "Pansager Plushie",
+        "price": 200,
+        "image": "merch/pansager.png"
+    },
+    {
+        "id": 8,
+        "name": "Pikachu Plushie",
+        "price": 200,
+        "image": "merch/pika.png"
+    },
+    {
+        "id": 9,
+        "name": "Piplup Plushie ",
+        "price": 200,
+        "image": "merch/Piplup.png"
+    },
+    {
+        "id": 10,
+        "name": "totodile Plushie" ,
+        "price": 200,
+        "image": "merch/Totodile.png"
+    },
+    {
+        "id": 11,
+        "name": "Snorlax Plushie",
+        "price": 200,
+        "image": "merch/snorlax.png"
+    },
+    {
+        "id": 12,
+        "name": "Charizard T-Shirt",
+        "price": 450,
+        "image": "merch/shirt1.png"
+    },
+    {
+        "id": 13,
+        "name": "Jigglypuff T-shirt",
+        "price": 450,
+        "image": "merch/shirt2.png"
+    },
+    {
+        "id": 14,
+        "name": "Pikachu T-shirt",
+        "price": 450,
+        "image": "merch/shirt3.png"
+    },
+    {
+        "id": 15,
+        "name": "Moltres T-shirt",
+        "price": 450,
+        "image": "merch/shirt4.png"
+    },
+    {
+        "id": 16,
+        "name": "Pokemons T-shirt",
+        "price": 450,
+        "image": "merch/shirt5.png"
+    },
+    {
+        "id": 17,
+        "name": "Umbreon T-shirt",
+        "price": 450,
+        "image": "merch/shirt6.png"
+    },
+    {
+        "id": 18,
+        "name": "Pikachu Smart Watch",
+        "price": 1000,
+        "image": "merch/watch1.png"
+    },
+    {
+        "id": 20,
+        "name": "Pikachu Watch",
+        "price": 800,
+        "image": "merch/watch2.png"
+    },
+    {
+        "id": 21,
+        "name": "Green Pikachu Watch",
+        "price": 800,
+        "image": "merch/watch3.png"
+    },
+    {
+        "id": 22,
+        "name": "Eevee Watch",
+        "price": 2000,
+        "image": "merch/watch4.png"
+    },
+    {
+        "id": 23,
+        "name": "Cute Pikachu Smart Watch",
+        "price": 1000,
+        "image": "merch/watch5.png"
+    },
+    {
+        "id": 24,
+        "name": "Orange Pikachu Crocs",
+        "price": 500,
+        "image": "merch/crocs.png"
+    },
+    {
+        "id": 25,
+        "name": "White Pokemons Crocs",
+        "price": 500,
+        "image": "merch/crocs2.png"
+    },
+    {
+        "id": 26,
+        "name": "Pokemon Crocs",
+        "price": 500,
+        "image": "merch/crocs3.png"
+    },
+    {
+        "id": 27,
+        "name": "Bulbasaur Phone Case",
+        "price": 500,
+        "image": "merch/case.png"
+    },
+    {
+        "id": 28,
+        "name": "Pokemon Phone Case",
+        "price": 100,
+        "image": "merch/case2.png"
+    },
+    {
+        "id": 29,
+        "name": "Pikachu Phone Case",
+        "price": 500,
+        "image": "merch/case3.png"
+    },
+    {
+        "id": 30,
+        "name": "Gengar Phone Case",
+        "price": 500,
+        "image": "merch/case4.png"
+    }
+]
